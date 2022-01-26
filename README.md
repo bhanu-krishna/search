@@ -1,11 +1,12 @@
 # for specific file type
-"""
+```
 word you want to search filetype:pdf
-
+```
            or
+```
 homework_presentation filetype:ppt
 
-"""
+```
 
 # for the specific search only in a particular site then use the following code
 """
