@@ -2,10 +2,9 @@
 ```
 word you want to search filetype:pdf
 ```
-           or
+or
 ```
 homework_presentation filetype:ppt
-
 ```
 
 # for the specific search only in a particular site then use the following code
